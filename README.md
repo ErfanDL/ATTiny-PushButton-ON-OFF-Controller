@@ -10,3 +10,7 @@ Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45
 # Wiring and circuit
 
 ![butt_bbk](https://github.com/ErfanDL/ATTiny13-25-45-85-Push-Button-ON-OFF-Controller/assets/14868771/9f82f194-fcc3-4068-8632-16992e51a03b)
+
+# Example circuit for Arduino UNO ON/OFF button
+
+![ex](https://github.com/ErfanDL/ATTiny13-25-45-85-Push-Button-ON-OFF-Controller/assets/14868771/c2acebcc-5fa2-4f36-89d9-0771c0f4e2ba)
