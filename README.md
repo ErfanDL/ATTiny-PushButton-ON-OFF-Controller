@@ -9,6 +9,14 @@ Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45
 
 - **Use ATTinyCore for ATTiny25/45/85**: https://github.com/SpenceKonde/ATTinyCore
 - **Use MicroCore for ATTiny13/13A**: https://github.com/MCUdude/MicroCore
+-----------------------------------
+**Arduino setup for ATTiny13/13A**
+- BOD: BOD Disabled
+- Bootloader: No bootloader
+- Clock: 128 KHz internal osc
+- EEPROM: EEPROM not retained
+
+-----------------------------------
 
 
 
