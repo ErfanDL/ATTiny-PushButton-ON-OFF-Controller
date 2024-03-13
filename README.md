@@ -5,7 +5,7 @@ Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45
 - **Supported uControllers: ATTiny13/13A/25/45/85**
 - **Single push button ON/OFF**
 
-# Chip SETUP
+# Arduino Chip SETUP
 
 - **Use ATTinyCore for ATTiny25/45/85**: https://github.com/SpenceKonde/ATTinyCore
 - **Use MicroCore for ATTiny13/13A**: https://github.com/MCUdude/MicroCore
