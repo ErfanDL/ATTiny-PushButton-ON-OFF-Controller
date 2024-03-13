@@ -24,6 +24,7 @@ Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45
 -----------------------------------
 
 **Arduino setup for ATTiny25/45/85**:
+- Board: "ATtiny25/45/85 (No bootloader)"
 - B.O.D. Level (Only set on bootload): "B.O.D. Disabled (saves power)"
 - Chip: "ATtiny45"
 - Clock Source (Only set on bootload): "128 kHz (internal WDT)"
@@ -32,7 +33,8 @@ Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45
 - millis()/micros(): "Disabled (saves flash)"
 - Timer 1 Clock: "CPU (CPU frequency)"
 
-![28](https://github.com/ErfanDL/ATTiny13-25-45-85-Push-Button-ON-OFF-Controller/assets/14868771/a73e13a6-a187-411d-85bd-0449a5d87754)
+![Screenshot (388)](https://github.com/ErfanDL/ATTiny-PushButton-ON-OFF-Controller/assets/14868771/983342e7-4573-4d75-a0a6-010a4352d4c1)
+
 
 -----------------------------------
 
