@@ -68,6 +68,7 @@ bool debounceButton() {
 EMPTY_INTERRUPT(WDT_vect); // Disable Watchdog Timer interrupt
 EMPTY_INTERRUPT(TIM0_COMPA_vect); // Disable Timer0 Compare Match A interrupt
 EMPTY_INTERRUPT(TIM0_COMPB_vect); // Disable Timer0 Compare Match B interrupt
+EMPTY_INTERRUPT(TIM0_OVF_vect); // Disable Timer0 Overflow interrupt
 EMPTY_INTERRUPT(TIM1_COMPA_vect); // Disable Timer1 Compare Match A interrupt
 EMPTY_INTERRUPT(TIM1_COMPB_vect); // Disable Timer1 Compare Match B interrupt
 EMPTY_INTERRUPT(TIM1_OVF_vect); // Disable Timer1 Overflow interrupt
