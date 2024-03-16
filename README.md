@@ -1,9 +1,16 @@
 # ATTiny13/13A/25/45/85 Push Button ON/OFF Controller
 Ultra-Low Power Single push button ON/OFF controller based on ATTiny13/13A/25/45/85 for other MicroController and circuits application.
 
+# **Simple mode features:**
 - **Ultra-Low Power 000.2uA (200nA)**
 - **Supported uControllers: ATTiny13/13A/25/45/85**
 - **Single push button ON/OFF**
+
+# **Advanced mode features:**
+- **Ultra-Low Power 000.2uA (200nA)**
+- **Supported uControllers: ATTiny13/13A/25/45/85**
+- **Hold down button to ON/OFF**
+- **External Shut down signal from other Micro-controllers or circuits**
 
 # Note
 **Please upload the bootloader first, then upload the code.**
